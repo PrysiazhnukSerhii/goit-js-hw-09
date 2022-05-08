@@ -32,3 +32,5 @@ function stopChangeColor (){
 
     refs.buttonStart.addEventListener("click",changeColor);
 };
+
+//--
